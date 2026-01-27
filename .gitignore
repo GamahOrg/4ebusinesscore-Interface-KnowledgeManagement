@@ -1,0 +1,6 @@
+node_modules/
+packages/gateway/.env
+.github/workflows/node-test-js.yml
+env.js
+clean-i18n-keys.js
+.npmrc

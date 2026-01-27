@@ -1,0 +1,6 @@
+.grayscale-filter {
+  filter: grayscale(100%);
+}
+.opacity-60{
+  opacity: .6 !important;
+}
